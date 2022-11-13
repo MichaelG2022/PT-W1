@@ -1,3 +1,4 @@
+package Week1;
 
 public class Main {
 
@@ -5,7 +6,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		
-		//creat double variables and assign values
+		//create double variables and assign values
 		double value1 = 14.99;
 		double value2 = 15.99;
 		
