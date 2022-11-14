@@ -1,4 +1,4 @@
-package Week2;
+package week1VariablesAndOperations;
 
 public class BooleanOperations {
 

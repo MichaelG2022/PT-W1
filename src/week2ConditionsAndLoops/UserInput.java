@@ -1,4 +1,4 @@
-package Week2;
+package week2ConditionsAndLoops;
 
 import java.util.Scanner;		//imported because of using Scanner
 
